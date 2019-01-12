@@ -3,7 +3,7 @@
   <div class="container">
     <div class="columns">
       <div class="column is-2 has-text-centered">
-        <img src="/imgs/logos/harvard-seas-logo-light-opt.svg" style="max-height: 125px;">
+        <img src="/imgs/logos/Buet_logo.svg" style="max-height: 125px;">
       </div>
       <div class="column content">
         <vue-markdown>
@@ -18,7 +18,7 @@ Bangladesh University of Engineering and Technology
       </div>
       <div class="column">
         <vue-markdown>
-*Borrowed by Nasif Zaman from [Julia Ebert](https://juliaebert.com/) ).*
+*Borrowed by Nasif Zaman from [Julia Ebert](https://juliaebert.com/).*
         </vue-markdown>
       </div>
     </div>

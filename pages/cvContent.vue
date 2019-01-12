@@ -17,7 +17,7 @@
                     to="https://github.com/Znasif"
                     icon="github-circle"
                     size=""
-                >github.com/jtebert</icon-link>
+                >github.com/Znasif</icon-link>
             </div>
         </div>
         <div slot="content">
@@ -149,11 +149,6 @@
                 category="GIS and Cartography"
                 :skills="[
                 'ArcScene', 'ArcGIS']"
-            ></cv-skill>
-            <cv-skill
-                category="Problem Solving"
-                :skills="[
-                '[Codeforces](https://codeforces.com/profile/Hektor)']"
             ></cv-skill>
             <h2>Relevant Coursework</h2>
             <cv-skill
