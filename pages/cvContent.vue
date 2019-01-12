@@ -153,7 +153,7 @@
             <cv-skill
                 category="Problem Solving"
                 :skills="[
-                '[]https://codeforces.com/profile/Hektor']"
+                '[Codeforces](https://codeforces.com/profile/Hektor)']"
             ></cv-skill>
             <h2>Relevant Coursework</h2>
             <cv-skill

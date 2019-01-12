@@ -18,7 +18,7 @@
 
 **Projects:** 
 
-**miscellaneous:** Promotion of interest things
+**Miscellaneous:** Promotion of interest things
 
 ## Who I Am
 

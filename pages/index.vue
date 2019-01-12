@@ -34,11 +34,14 @@ I am interested in 3D vision, multi-view geometry, cartography, and multi-modal 
 
 In my last year of undergrad, I developed an algorithm for bangla text extraction and recognition from scanned plot ownership documents and store them in a central database using Django. As my undergrad thesis, I developed an image processing algorithm that detects plot contours from a scanned mouza map. This has exposed me to the elements that I now want to do graduate research in, such as computer vision and multi-modal learning.
 
-I also deeply care about science communication and outreach. I believe modern MOOCs are a great step towards bringing education within everyones reach. Videos are the primary medium for these courses with very little interactive features. For most engineering students besides those that do all their work in computers, the la environment is currently missing. AR and VR is trying to bridge that gap. But this won't be possible if 3D content creation remains inaccessible to lay users. I believe research in the field of 3D reconstruction will enable civil or mechanical engineering students to practice lab work, medical students to perform simulated surgery. The possibilities are endless.
+I also deeply care about science communication and outreach. I believe modern MOOCs are a great step towards bringing education within everyones reach. Videos are the primary medium for these courses. However, They lack interactive features. For most students (besides those that do all their work in computers), the interactive lab environment is currently missing. AR and VR research is trying to bridge that gap. But this won't be possible if 3D content creation remains inaccessible to lay users. I believe research in the field of 3D reconstruction will enable civil or mechanical engineering students to practice lab work, medical students to perform simulated surgery. The possibilities are endless.
         </vue-markdown>
-        <p>In my free time, I play for the
-          <a href="http://reddit.com/r/MapPorn">surf r/Maps, r/MapPorn, r/mapmaking and other such subreddits</a> and read
-          <a href="https://docs.google.com/spreadsheets/d/18Nnc6_Kncy7iILfn9m23OOTl0DAN6TQArSxB9SvUKcU/edit?usp=sharing">awesome books and articles</a>
+        <p>In my free time, I surf
+          <a href="http://reddit.com/r/MapPorn"> r/MapPorn</a>,
+          <a href="http://reddit.com/r/mapmaking"> r/mapmaking</a>,
+          <a href="http://reddit.com/r/MapPorn"> r/Maps</a>,
+          <a href="http://reddit.com/r/MapPorn"> r/Map_Porn</a> and other such subreddits and read
+          <a href="https://docs.google.com/spreadsheets/d/18Nnc6_Kncy7iILfn9m23OOTl0DAN6TQArSxB9SvUKcU/edit?usp=sharing">cool books and articles</a>
         </p>
       </div>
       <div class="block-content">
