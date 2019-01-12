@@ -2,7 +2,7 @@ module.exports = {
 
 
   env: {
-    siteTitle: 'Julia Ebert',
+    siteTitle: 'Nasif Zaman',
     navItems: {
       "About Me": "",
       CV: "cv",
@@ -25,11 +25,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'Julia Ebert',
+    title: 'Nasif Zaman',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: "Julia Ebert, apprentice robot herder. PhD candidate at Harvard University researching collective robotics." },
+      { hid: 'description', name: 'description', content: "Nasif Zaman, apprentice robot herder. PhD candidate at Harvard University researching collective robotics." },
       { name: 'msapplication-TileColor', content: "#03bc25" },
       { name: 'theme-color', content: '#03bc25' }
     ],

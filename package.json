@@ -1,8 +1,8 @@
 {
   "name": "jtebert",
   "version": "1.0.0",
-  "description": "Julia Ebert's personal website",
-  "author": "Julia Ebert <julia@juliaebert.com>",
+  "description": "Nasif Zaman's personal website",
+  "author": "Nasif Zaman <julia@juliaebert.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",

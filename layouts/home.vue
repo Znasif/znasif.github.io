@@ -6,7 +6,7 @@
       </div>
       <div class="hero-body">
         <div class="typer-title">
-          <h1 class="name-title">Julia Ebert</h1>
+          <h1 class="name-title">Nasif Zaman</h1>
           <no-ssr>
             <vue-typer
               class="subtitle"

@@ -1,6 +1,6 @@
 # juliaebert.com
 
-> Julia Ebert's personal website
+> Nasif Zaman's personal website
 
 ## Build Setup
 

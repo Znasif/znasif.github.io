@@ -69,7 +69,7 @@
         subtitle="Northeastern News, 5 December 2014"
       >
         <div>
-          <p>"Julia Ebert, S’15, has won a Marshall Scholarship to pursue a one-​​year master’s of research in bioengineering at Imperial College London starting in the fall.</p>
+          <p>"Nasif Zaman, S’15, has won a Marshall Scholarship to pursue a one-​​year master’s of research in bioengineering at Imperial College London starting in the fall.</p>
           <p>"Founded by the British government in 1953 to commemorate the Marshall Plan, the post­graduate scholarship allows up to 40 intellectually distinguished American students to study in the United Kingdom each year."</p>
           <icon-link
             icon="newspaper"
@@ -80,11 +80,11 @@
       <project
         is-cover
         img-src="/imgs/media/research_video_small.png"
-        title="Stories to Inspire: Julia Ebert"
+        title="Stories to Inspire: Nasif Zaman"
         subtitle="Northeastern University Scholars Program"
       >
         <div>
-          <p>"Behavioral neuroscience student and Goldwater Scholar, Julia Ebert, discusses her research."</p>
+          <p>"Behavioral neuroscience student and Goldwater Scholar, Nasif Zaman, discusses her research."</p>
           <icon-link icon="movie" :to="'https://vimeo.com/108164841'">Watch video</icon-link>
         </div>
       </project>
@@ -95,7 +95,7 @@
         subtitle="Northeastern News, 24 April 2013"
       >
         <div>
-          <p>"Julia Ebert, a third-​​year behavioral neuroscience major, has been awarded a prestigious Barry M. Goldwater Scholarship. The merit-​​based scholarship is awarded annually to 300 college sophomores and juniors nationwide who are studying science, engineering, or mathematics. Scholarship nominees must demonstrate prior experience in a research setting and submit a proposal to the Foundation Board of Trustees based on work that has advanced their sfield of study and furthered their career objectives."</p>
+          <p>"Nasif Zaman, a third-​​year behavioral neuroscience major, has been awarded a prestigious Barry M. Goldwater Scholarship. The merit-​​based scholarship is awarded annually to 300 college sophomores and juniors nationwide who are studying science, engineering, or mathematics. Scholarship nominees must demonstrate prior experience in a research setting and submit a proposal to the Foundation Board of Trustees based on work that has advanced their sfield of study and furthered their career objectives."</p>
           <icon-link
             icon="newspaper"
             to="http://news.northeastern.edu/2013/04/honors-student-named-goldwater-scholar"

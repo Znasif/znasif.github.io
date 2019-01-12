@@ -3,7 +3,7 @@
         <div v-if="isPaper" class="cv-header">
             <img class="logo" src="/imgs/logos/logo-black.svg">
             <div class="name">
-                <h1>Julia Ebert</h1>
+                <h1>Nasif Zaman</h1>
                 <p class="subtitle">PhD Candidate &bull; Robotics Researcher</p>
             </div>
             <div class="links">

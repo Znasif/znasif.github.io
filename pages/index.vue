@@ -2,7 +2,7 @@
   <div>
     <primary-section
       title="About Me"
-      subtitle="Julia Ebert, apprentice robot herder"
+      subtitle="Nasif Zaman, apprentice robot herder"
       texture="graph-paper"
     >
       <div slot="links">
