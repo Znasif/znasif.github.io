@@ -16,11 +16,11 @@
               :pre-erase-delay="2000"
               erase-style="clear"
               :text="[
-              'programs a swarm.',
-              'builds robots.',
-              'simulates satellites.',
-              //'writes a blog.',
-              'makes things.']"
+              'loves maps.',
+              'builds in 3D.',
+              'reshapes reality.',
+              'reads and reads.',
+              'makes mistakes.']"
             ></vue-typer>
           </no-ssr>
         </div>
