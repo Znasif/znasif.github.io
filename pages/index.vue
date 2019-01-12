@@ -23,7 +23,7 @@
         :img-srcs="[
       'march-for-science.jpg',
       'curling.jpg',
-      ['project_night_four_web.jpg', 'Olivia Nie/SEAS Communications']
+      ['project_night_four_web.jpg', 'Diaries']
       ]"
       ></gallery>
       <div class="block-content content">

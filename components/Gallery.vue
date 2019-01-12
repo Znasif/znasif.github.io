@@ -6,7 +6,7 @@
       :key="`img-${id}`"
       :style="{'background-image': 'url(' + imgDir + '/' + img(imgSrc) + ')' }"
     >
-      <span v-if="caption(imgSrc)" class="caption-source">Olivia Nie/SEAS Communications</span>
+      <span v-if="caption(imgSrc)" class="caption-source">Diaries</span>
     </div>
   </div>
 </template>

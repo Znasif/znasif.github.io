@@ -9,7 +9,7 @@ module.exports = {
       Research: "research",
       //Publications: "publications",
       //"Side Projects": "side-projects",
-      miscellaneous: "miscellaneous"
+      Miscellaneous: "miscellaneous"
     }
   },
   router: {
