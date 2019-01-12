@@ -28,33 +28,17 @@
       ></gallery>
       <div class="block-content content">
         <vue-markdown>
-I am a PhD candidate in computer science at Harvard University. I am a member of the 
-[Self-organizing Systems Research group](https://ssr.seas.harvard.edu/), where I study 
-bio-inspired collective robotics with Prof. Radhika Nagpal. I am also a Department of 
-Energy Computational Science Graduate Fellow (DOE CSGF). Previously, I earned an MRes 
-in bioengineering from Imperial College London and a BS in behavioral neuroscience 
-from Northeastern University.
+I am a fresh graduate in computer science from Bangladesh University of Engineering and Technology. I am currently working as a Research Assistant developing robust segmentation algorithms to extract spatial features from a scanned map with Professor Monirul Islam. I am also a part-time machine learning engineer at [Elab](https://elab.ai). My job is to extract, process medical data and host state-of-the-art machine learning models in the google cloud platform for batch training and easy inference.
 
-I am interested in biology, learning, robotics, and the interface between them, such 
-as bio-inspired robotics, cooperative robot control, and artificial intelligence. During 
-my PhD, my goal is to apply concepts from neuroscience and biological behavior to improve 
-the collective behavior of robots. After my PhD, I plan to pursue a career in academic 
-research.
+I am interested in 3D vision, multi-view geometry, cartography, and multi-modal learning. I am specifically interested in streamlining 3D content creation process to make XR interactive-learning as ubiquitous as videos. I am actively looking for graduate schools that would fit my research goals. My goal is to pursue a career in computer vision research in NVIDIA.
 
-In the first years of my PhD, I developed an algorithm for a swarm of simple Kilobot robots
-to make decisions about multiple features of their environment, and I designed and built 
-a set of larva-inspired robots that climb over each to move faster as a group.
+In my last year of undergrad, I developed an algorithm for bangla text extraction and recognition from scanned plot ownership documents and store them in a central database using Django. As my undergrad thesis, I developed an image processing algorithm that detects plot contours from a scanned mouza map. This has exposed me to the elements that I now want to do graduate research in, such as computer vision and multi-modal learning.
 
-I also care about science communication and outreach. I've [spoken to hundreds of kids about
-robots](https://www.brainson.org/shows/2018/05/08/what-was-the-first-robot-and-more-from-robotstravaganza)
-, [given a public lecture](http://sitn.hms.harvard.edu/seminars/2018/november-14-brains-bodies-make-smart-robots/)
-on robotics through Harvard's Science in the News lecture series, and demonstrated our lab's Kilobots at a 
-variety of outreach events.
+I also deeply care about science communication and outreach. I believe modern MOOCs are a great step towards bringing education within everyones reach. Videos are the primary medium for these courses with very little interactive features. For most engineering students besides those that do all their work in computers, the la environment is currently missing. AR and VR is trying to bridge that gap. But this won't be possible if 3D content creation remains inaccessible to lay users. I believe research in the field of 3D reconstruction will enable civil or mechanical engineering students to practice lab work, medical students to perform simulated surgery. The possibilities are endless.
         </vue-markdown>
         <p>In my free time, I play for the
-          <a href="http://harvardcurling.com/">Harvard curling team</a>, bake
-          <a href="http://lazybaker.juliaebert.com/">awesome cinnamon rolls</a>, and
-          <nuxt-link to="side-projects">make fun things</nuxt-link>.
+          <a href="http://reddit.com/r/MapPorn">surf r/Maps, r/MapPorn, r/mapmaking and other such subreddits</a> and read
+          <a href="https://docs.google.com/spreadsheets/d/18Nnc6_Kncy7iILfn9m23OOTl0DAN6TQArSxB9SvUKcU/edit?usp=sharing">awesome books and articles</a>
         </p>
       </div>
       <div class="block-content">
@@ -62,15 +46,15 @@ variety of outreach events.
         <div class="has-flex-items">
           <image-block-link title="CV"></image-block-link>
           <image-block-link title="Research"></image-block-link>
-          <image-block-link title="Publications"></image-block-link>
-          <image-block-link title="Side Projects"></image-block-link>
-          <image-block-link title="Media"></image-block-link>
+          <!--<image-block-link title="Publications"></image-block-link>
+          <image-block-link title="Side Projects"></image-block-link>-->
+          <image-block-link title="Miscellaneous"></image-block-link>
         </div>
       </div>
       <div class="block-content">
         <h1 class="title is-2 has-text-centered">Contact Me</h1>
         <div class="buttons is-centered">
-          <a class="button is-large is-primary" href="mailto:julia@juliaebert.com">julia@juliaebert.com</a>
+          <a class="button is-large is-primary" href="mailto:nasifzaman@yahoo.com">nasifzaman@yahoo.com</a>
         </div>
       </div>
     </primary-section>

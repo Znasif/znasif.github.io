@@ -7,8 +7,8 @@ module.exports = {
       "About Me": "",
       CV: "cv",
       Research: "research",
-      Publications: "publications",
-      "Side Projects": "side-projects",
+      //Publications: "publications",
+      //"Side Projects": "side-projects",
       Media: "media"
     }
   },

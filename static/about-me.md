@@ -12,13 +12,13 @@
 
 **CV:** 
 
-**Research:** Humans + robot swarm + space = ???
+**Research:** Computer Vision + NLP + Comic Art = ???
 
 **Publications:** Making the world a better place, one peer-reviewed article at a time
 
 **Projects:** 
 
-**Media:** Shameless self-promotion
+**miscellaneous:** Promotion of interest things
 
 ## Who I Am
 

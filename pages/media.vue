@@ -118,7 +118,7 @@ export default {
     IconLink
   },
   data() {
-    return { title: "Media" };
+    return { title: "Take a Look" };
   },
   head() {
     return {

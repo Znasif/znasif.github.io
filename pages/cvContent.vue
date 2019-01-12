@@ -153,7 +153,7 @@
             <cv-skill
                 category="Problem Solving"
                 :skills="[
-                'https://codeforces.com/profile/Hektor']"
+                '[]https://codeforces.com/profile/Hektor']"
             ></cv-skill>
             <h2>Relevant Coursework</h2>
             <cv-skill
@@ -173,7 +173,7 @@
                 category="Projects"
                 :skills="[
                 'Bangla Numeral Detection and Recognition in Scanned Mouza Maps with MaskRCNN and OCR (Python)',
-                'Reddit bot for Map Recognition in r/Map_Porn and r/maps (Python)',
+                'Reddit bot for Map Recognition in r/Map_Porn, r/MapPorn and r/maps (Python)',
                 'Plot Information Management System (Django)',
                 'Train Ticket Reservation System (Java and Oracle)',
                 'Multi Tab Web Browser (Java)',
