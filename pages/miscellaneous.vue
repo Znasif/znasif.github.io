@@ -123,7 +123,7 @@ export default {
   head() {
     return {
       title: this.title + " - " + process.env.siteTitle,
-      meta: [{ hid: "media" }]
+      meta: [{ hid: "miscellaneous" }]
     };
   }
 };
