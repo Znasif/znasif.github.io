@@ -1,28 +1,23 @@
 # Personal Style Guide
 
-My personal branding is based on technology, because I do computery things. It's trying to be techy and geeky without shoving it in your face. It should look professional but have room for some fun. It goes well with more formal and boring content (like my CV or personal website) and with my more sarcastic writing style on my blog.
+I am just clumsy sometimes.
 
-The color palette and secondary font choice are a reference to classic green-on-black color scheme, but with a more modern perspective. It is further inspired by the design of tech websites like [Wired](https://www.wired.com/). The design is flat because I don't like gradients and uses solid icons because there are more of them and they're easier to scale.
+**Mission:** Calm my nerves.
 
-**Mission:** Procrastinate. Also play around with technology, but in the end hopefully make something cool, interesting, or useful.
-
-**Audience:** My own ego
+**Audience:** Hello :)
 
 **Descriptors I want people to think of me:**
 
-- Smart
-- Tech-savvy
-- Funny
-- Confident
-- Creative (Bonus: standards for graphic design in academia are usually pretty low)
+- Accessible
+- Probably a goofy researcher
 - Unafraid of trying something new and OK with failing at it
 
 **Goals:**
 
-- Be a contact point for science communication
-- Be known as an advocate in the STEM community
+- Be a contact point for computer vision research
+- Be known as an advocate in the Machine Vision community
 - Make myself visible in the academic world
-- Get a tenure track job
+- Land an R&D job
 - Develop interdisciplinary collaborations
 
 **Points I want people to get:**
@@ -32,11 +27,6 @@ The color palette and secondary font choice are a reference to classic green-on-
 - You don't have to fit the stereotypes.
 
 ## Logo
-
-The logo is a circuit representation of my first initial, because I do computery things. It may be used prominently (i.e., as a feature) or as an icon down to _______ pixels. The latter is likely preferred when heavy use of graphics is not the norm (such as a CV or as a watermark). It may also be used as a Favicon.
-
-Don't be so full of yourself as to use it more than once on each page.
-
 It is available as a vector (SVG) or raster (PNG) image. Never use it as a JPG image, because compression sucks.
 
 *Include files, including PNG at various sizes/colors and favicon*
@@ -151,7 +141,7 @@ I don't want to sound too serious or inaccessible. I want to be open, confident,
 
 Phrasing should be focused on action and verbs. For example, "Julia Makes Things" and "Julia Blogs," or blog sections "Making," "Sharing," and "Learning". Bonus points for articles with puns, alliteration, and sci-fi references in the titles. For general audience writing, try to eliminate jargon. Humorous metaphors and similes are often useful, but don't neglect content for the sake of style and swagger.
 
-Some purposes require a more formal tone, primarily those involving academic standing and jobs. That's where this branding can take a more demure tone, leaving out the extra colors and icons and focusing on what I
+Some purposes require a more formal tone, primarily those involving academic standing and jobs. That's where this branding can take a more demure tone, leaving out the extra colors and icons and focusing on what I want to get across.
 
 ## Design
 

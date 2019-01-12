@@ -2,7 +2,7 @@
   <primary-section :title="title" subtitle="Curriculum Vitae" texture="brick-wall">
     <div slot="links">
       <p class="buttons">
-        <icon-button-link to="/pdfs/ebert-julia.cv.pdf" icon="file-pdf">View as PDF</icon-button-link>
+        <icon-button-link to="/pdfs/nasif-resume.pdf" icon="file-pdf">View as PDF</icon-button-link>
       </p>
     </div>
     <div class="block-content content">

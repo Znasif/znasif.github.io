@@ -2,18 +2,18 @@
   <div>
     <primary-section
       title="About Me"
-      subtitle="Nasif Zaman, apprentice robot herder"
+      subtitle="Nasif Zaman, 3d vision enthusiast"
       texture="graph-paper"
     >
       <div slot="links">
         <p class="buttons">
           <icon-button-link
-            to="https://github.com/jtebert"
+            to="https://github.com/Znasif"
             icon="github-circle"
             title="GitHub"
           >GitHub</icon-button-link>
           <icon-button-link
-            to="https://www.linkedin.com/in/ebertjulia/"
+            to="https://www.linkedin.com/in/nasifzaman-9683309a/"
             icon="linkedin"
             title="LinkedIn"
           >LinkedIn</icon-button-link>
@@ -28,13 +28,28 @@
       ></gallery>
       <div class="block-content content">
         <vue-markdown>
-I am a PhD candidate in computer science at Harvard University. I am a member of the [Self-organizing Systems Research group](https://ssr.seas.harvard.edu/), where I study bio-inspired collective robotics with Prof. Radhika Nagpal. I am also a Department of Energy Computational Science Graduate Fellow (DOE CSGF). Previously, I earned an MRes in bioengineering from Imperial College London and a BS in behavioral neuroscience from Northeastern University.
+I am a PhD candidate in computer science at Harvard University. I am a member of the 
+[Self-organizing Systems Research group](https://ssr.seas.harvard.edu/), where I study 
+bio-inspired collective robotics with Prof. Radhika Nagpal. I am also a Department of 
+Energy Computational Science Graduate Fellow (DOE CSGF). Previously, I earned an MRes 
+in bioengineering from Imperial College London and a BS in behavioral neuroscience 
+from Northeastern University.
 
-I am interested in biology, learning, robotics, and the interface between them, such as bio-inspired robotics, cooperative robot control, and artificial intelligence. During my PhD, my goal is to apply concepts from neuroscience and biological behavior to improve the collective behavior of robots. After my PhD, I plan to pursue a career in academic research.
+I am interested in biology, learning, robotics, and the interface between them, such 
+as bio-inspired robotics, cooperative robot control, and artificial intelligence. During 
+my PhD, my goal is to apply concepts from neuroscience and biological behavior to improve 
+the collective behavior of robots. After my PhD, I plan to pursue a career in academic 
+research.
 
-In the first years of my PhD, I developed an algorithm for a swarm of simple Kilobot robots to make decisions about multiple features of their environment, and I designed and built a set of larva-inspired robots that climb over each to move faster as a group.
+In the first years of my PhD, I developed an algorithm for a swarm of simple Kilobot robots
+to make decisions about multiple features of their environment, and I designed and built 
+a set of larva-inspired robots that climb over each to move faster as a group.
 
-I also care about science communication and outreach. I've [spoken to hundreds of kids about robots](https://www.brainson.org/shows/2018/05/08/what-was-the-first-robot-and-more-from-robotstravaganza), [given a public lecture](http://sitn.hms.harvard.edu/seminars/2018/november-14-brains-bodies-make-smart-robots/) on robotics through Harvard's Science in the News lecture series, and demonstrated our lab's Kilobots at a variety of outreach events.
+I also care about science communication and outreach. I've [spoken to hundreds of kids about
+robots](https://www.brainson.org/shows/2018/05/08/what-was-the-first-robot-and-more-from-robotstravaganza)
+, [given a public lecture](http://sitn.hms.harvard.edu/seminars/2018/november-14-brains-bodies-make-smart-robots/)
+on robotics through Harvard's Science in the News lecture series, and demonstrated our lab's Kilobots at a 
+variety of outreach events.
         </vue-markdown>
         <p>In my free time, I play for the
           <a href="http://harvardcurling.com/">Harvard curling team</a>, bake

@@ -4,17 +4,17 @@
             <img class="logo" src="/imgs/logos/logo-black.svg">
             <div class="name">
                 <h1>Nasif Zaman</h1>
-                <p class="subtitle">PhD Candidate &bull; Robotics Researcher</p>
+                <p class="subtitle">Graduate &bull; 3D Computer Vision Research</p>
             </div>
             <div class="links">
-                <icon-link to="https://juliaebert.com" icon="web" size="">juliaebert.com</icon-link>
+                <icon-link to="https://znasif.github.io" icon="web" size="">znasif.github.io</icon-link>
                 <icon-link
-                    to="mailto:julia@juliaebert.com"
+                    to="mailto:nasifzaman@yahoo.com"
                     icon="email"
                     size=""
-                >julia@juliaebert.com</icon-link>
+                >nasifzaman@yahoo.com</icon-link>
                 <icon-link
-                    to="https://github.com/jtebert"
+                    to="https://github.com/Znasif"
                     icon="github-circle"
                     size=""
                 >github.com/jtebert</icon-link>
@@ -23,128 +23,31 @@
         <div slot="content">
             <h2>Education</h2>
             <cv-entry
-                location="Cambridge, MA"
-                dates="2016 --"
-                title="Harvard University"
-                subtitle="PhD Candidate in Computer Science<br>
-                          Advisor: Prof. Radhika Nagpal"
-            ></cv-entry>
-            <cv-entry
-                dates="2016"
-                location="London, UK"
-                title="Imperial College London"
-                subtitle="Master of Research in Bioengineering, with Distinction<br>
-                    Advisors: Prof. Etienne Burdet, Dr. Ildar Farkhatdinov<br>
-                    Thesis: <i>Assisting Balance Recovery with a Lower Limb Exoskeleton</i>"
-            ></cv-entry>
-            <cv-entry
-                location="Boston, MA"
-                dates="2015"
-                title="Northeastern University"
-                subtitle="BS in Behavioral Neuroscience, Minor in Computer Science<br>
-                    GPA: 3.98 / 4.0, summa cum laude<br>
-                    Honors Thesis: <i>Asymmetric Learning in an Asymmetric Bimanual Task</i>"
+                location="Dhaka, Bangladesh"
+                dates="2018"
+                title="Bangladesh University of Engineering and Technology"
+                subtitle="BSc Computer Science<br>
+                    GPA: 3.31 / 4.0<br>
+                    Honors Thesis: <i>Mouza Map Digitization</i>"
             ></cv-entry>
             <h2>Research</h2>
             <cv-entry
-                location="Cambridge, MA"
-                title="Harvard University Self-Organizing Systems Research Group"
-                subtitle="Prof. Radhika Nagpal"
+                location="Dhaka, Bangladesh"
+                title="Computer Vision Research"
+                subtitle="Prof. Monirul Islam"
                 :tasks="[
-                    {date: '2017 --',
-                     task: 'LARVAbot: Locomotion of autonomous robots via aggregation'},
-                    {date: '2016 --',
-                     task: 'Multi-feature perception and decision making in robot collectives'}]"
-            ></cv-entry>
-            <cv-entry
-                location="Livermore, CA"
-                title="Lawrence Livermore National Laboratory"
-                subtitle="Dr. Michael Schneider"
-                :tasks="[
-                    {date: '2018 --',
-                     task: 'Collaborative Autonomy for Space Situational Awareness'}]"
-            ></cv-entry>
-            <cv-entry
-                location="London, UK"
-                title="Imperial College Human Robotics Group"
-                subtitle="Prof. Etienne Burdet and Dr. Ildar Farkhatdinov"
-                :tasks="[
-                    {date: '2015 -- 2016',
-                     task: 'Co-control of balance recovery in a lower limb exoskeleton'}]"
-            ></cv-entry>
-            <cv-entry
-                location="Boston, MA"
-                title="Northeastern University Action Lab"
-                subtitle="Prof. Dagmar Sternad"
-                :tasks="[
-                    {date: '2014 -- 2015',
-                     task: 'Prediction and stability in control of objects with complex dynamics'},
-                    {date: '2012 -- 2015',
-                     task: 'Learning and long-term retention of an asymmetric bimanual task'},
-                    {date: '2011 -- 2012',
-                     task: 'Effects of central fatigue on cognitive and motor performance'},]"
-            ></cv-entry>
-            <cv-entry
-                location="Nahant, MA"
-                title="Northeastern University Marine Science Center"
-                subtitle="Prof. Joseph Ayers"
-                :tasks="[
-                    {date: 'May -- Aug. 2015',
-                     task: 'Neuro-inspired rheotaxis and antenna design in a robotic lobster'}]"
-            ></cv-entry>
-            <cv-entry
-                location="Watertown, MA"
-                title="Interactive Motion Technologies"
-                :tasks="[
-                    {date: 'July -- Sept. 2014',
-                     task: 'Integrated stroke assessment software in rehabilitation robotics'}]"
-            ></cv-entry>
-            <cv-entry
-                location="Tübingen, DE"
-                title="Max Planck Institute for Intelligent Systems"
-                subtitle="Prof. Stefan Schaal"
-                :tasks="[
-                    {date: 'July -- Dec. 2013',
-                     task: 'Learning and exploration in a novel dimensionality-reduction task'}]"
+                    {date: '2019 --',
+                     task: 'Maple: Robust Map Segmentation Using Mask-RCNN'}]"
             ></cv-entry>
             <h2>Grants and Scholarships</h2>
-            <cv-award
-                date="2016"
-                award="Department of Energy Computational Science Graduate Fellowship (DOE CSGF)"
-            ></cv-award>
-            <cv-award date="2015" award="Marshall Scholarship"></cv-award>
-            <cv-award
-                date="2014"
-                award="Northeastern Provost Undergraduate Advanced Research Award"
-            ></cv-award>
-            <cv-award date="2013" award="Barry Goldwater Scholarship"></cv-award>
-            <cv-award date="2013" award="Northeastern Provost Undergraduate Research Award"></cv-award>
-            <cv-award date="2013" award="DAAD Undergraduate Scholarship"></cv-award>
-            <cv-award date="2013" award="Northeastern Presidential Global Scholarship"></cv-award>
-            <cv-award date="2010" award="Northeastern National Merit Scholarship"></cv-award>
-            <h2>Awards</h2>
-            <cv-award date="2018" award="Distinction in Teaching, Harvard University"></cv-award>
-            <cv-award date="2016" award="Finalist, Hertz Fellowship"></cv-award>
-            <cv-award
-                date="2016"
-                award="Honorable Mention, National Science Foundation Graduate Research Fellowship Program (NSF GRFP)"
-            ></cv-award>
-            <cv-award date="2015" award="Northeastern University Honors Program Distinction"></cv-award>
-            <cv-award date="2015" award="Northeastern Honors in Behavioral Neuroscience"></cv-award>
-            <cv-award
-                date="2015"
-                award="Northeastern Alex Skavenski Award for Behavioral Neuroscience"
-            ></cv-award>
-            <cv-award
-                date="2015"
-                award="Northeastern Sears B. Condit Award for academic achievement"
-            ></cv-award>
-            <cv-award date="2010 -- 2015" award="Northeastern Dean’s List (6 semesters)"></cv-award>
-            <cv-award date="2015" award="Finalist; Rhodes, Fulbright, and Mitchell Scholarships"></cv-award>
+            <cv-award date="2011" award="Board Scholarship in Secondary School Certificate Examination"></cv-award>
+            <cv-award date="2011" award="Board Talentpool Scholarship in Primary School"></cv-award>
+            <!-- <h2>Awards</h2>
+            <cv-award date="2018" award="Research Assistant, Bangladesh University of Engineering and Technology"></cv-award>
             <h2 v-if="isPaper">Papers</h2>
             <publication-list
                 v-if="isPaper"
-                highlight-author="Ebert"
+                highlight-author="Nasif"
                 :type-filter="['inproceedings', 'article']"
                 :showLinks="false"
             ></publication-list>
@@ -159,7 +62,7 @@
             <p v-if="!isPaper">See
                 <nuxt-link to="/publications">publications section</nuxt-link>
             </p>
-            <!-- <h2>Talks</h2>
+            <h2>Talks</h2>
             <publication-list
                 highlight-author="Ebert"
                 :type-filter="['talk']"
@@ -169,7 +72,6 @@
             - CS 189 guest lecture
             - AAMAS 2018?
             - Wyss molecular robotics
-            -->
             <h2>Teaching</h2>
             <cv-entry
                 location="Cambridge, MA"
@@ -211,62 +113,88 @@
                 date="2010 -- 2011"
                 award="Mentor, Massachusetts General Hospital Youth Program"
             ></cv-award>
+            -->
+            <h2>Work Experience</h2>
+            <cv-entry
+                location="Dhaka, Bangladesh"
+                title="Elab"
+                subtitle="Machine Learning and Big Data Engineer"
+                :tasks="[
+                    {date: '2018 -- 2019',
+                     task: 'Processing and Analyzing Imaging Data'},
+                    {date: '2018 -- 2019',
+                     task: 'Extract Text from Medical Reports'},
+                    {date: '2018 -- 2019',
+                     task: 'Train Neural Network for Tentative Diagnosis'},
+                    {date: '2018 -- 2019',
+                     task: 'Migrate Infrastructure to Google Cloud Platform'},
+                    {date: '2019 --',
+                     task: 'Create a functional REST API'}]"
+            ></cv-entry>
             <h2>Skills</h2>
             <cv-skill
                 category="Programming"
                 :skills="[
-                'Python (including Django, NumPy)', 'MATLAB', 'C/C++ (including OpenMP, AVR, Arduino)',
-                'HTML/CSS', 'LaTeX', 'JavaScript', 'Java']"
+                'Python (including Django, NumPy)', 'Java (including Spring)', 'MATLAB', 'C/C++ (including AVR, Arduino)',
+                'C#', 'HTML/CSS', 'LaTeX']"
             ></cv-skill>
             <cv-skill
-                category="Fabrication"
+                category="Computer Vision and Image Processing"
                 :skills="[
-                'Laser cutting', '3D printing', 'Vinyl cutting', 'CNC milling, ShopBot',
-                'Electronics design (Eagle) and production', 'Soldering', 'Sewing',
-                'Molding and casting']"
+                'OpenCV', 'Matplotlib', 'Caffe', 'Keras', 'PyTorch',
+                'scikit-learn', 'Unity3D', 'Blender', 'VisualSFM',
+                'Google Cloud Platform']"
             ></cv-skill>
             <cv-skill
-                category="Other"
+                category="GIS and Cartography"
                 :skills="[
-                'Computer-aided design (OnShape)', 'Database design', 'Linux',
-                'Embedded programming', '3D motion capture',
-                'Kinematic and EEG data collection in human subjects']"
+                'ArcScene', 'ArcGIS']"
+            ></cv-skill>
+            <cv-skill
+                category="Problem Solving"
+                :skills="[
+                'https://codeforces.com/profile/Hektor']"
             ></cv-skill>
             <h2>Relevant Coursework</h2>
             <cv-skill
                 category="Computer Science"
-                :skills="['Biologically-inspired Multi-agent Systems', 'Distributed Systems',
-                'Machine Learning', 'Network Algorithms', 'Computational Neurodynamics',
-                'Artificial Intelligence', 'Robotics']"
+                :skills="[
+                'Artificial Intelligence', 'Computational Geometry', 'Linear Algebra',
+                'Digital Image Processing', 'Computer Graphics']"
             ></cv-skill>
             <cv-skill
-                category="Science and Engineering"
+                category="Online Coursework"
                 :skills="[
-                'How to Make (Almost) Anything', 'Biomimetics', 'Comparative Neurobiology',
-                'Human Neuroanatomy', 'Biochemistry', 'Genetics and Molecular Biology',
-                'Organic Chemistry']"
+                'Neural Networks and Deep Learning', 'Probabilistic Graphical Models', 
+                'Multi-view Geometry', 'Machine Vision', 'Introduction to XR',
+                'Game Theory', 'Fundamentals of GIS']"
             ></cv-skill>
             <cv-skill
-                category="Mathematics"
+                category="Projects"
                 :skills="[
-                'Stochastic Methods for Data Analysis, Inference and Optimization', 'Biological Signal Processing', 'Statistics and Data Analysis',
-                'Multivariable Calculus', 'Linear Algebra', 'Differential Equations']"
+                'Bangla Numeral Detection and Recognition in Scanned Mouza Maps with MaskRCNN and OCR (Python)',
+                'Reddit bot for Map Recognition in r/Map_Porn and r/maps (Python)',
+                'Plot Information Management System (Django)',
+                'Train Ticket Reservation System (Java and Oracle)',
+                'Multi Tab Web Browser (Java)',
+                '2D Racing Car (C)']"
+            ></cv-skill>
+            <cv-skill
+                category="Hardware Projects"
+                :skills="[
+                '2-Player Ludo Game (Variants: Player1 vs Robot and Player1 vs Player2) (ATmega32 and LED Matrix)',
+                'Grid Solving Robot (Arduino Uno and IR-Sensor)']"
             ></cv-skill>
             <h2>Activities and Interests</h2>
             <cv-skill
                 category="Sport"
                 :skills="[
-                'Harvard University curling team', 'Imperial College and Goodenough College fencing clubs', 'Cycling']"
-            ></cv-skill>
-            <cv-skill
-                category="Music"
-                :skills="[
-                'Northeastern University pep band, drumline, and wind ensemble', 'Clarinet', 'Saxophone', 'Percussion']"
+                'Swimming', 'Cycling']"
             ></cv-skill>
             <cv-skill
                 category="Other"
                 :skills="[
-                'Web design and development', 'Graphic design', 'Writing', 'Baking']"
+                'Map making', 'Web crawling', 'Casual reading', 'Eating']"
             ></cv-skill>
         </div>
     </div>
