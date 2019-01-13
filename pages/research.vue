@@ -1,12 +1,12 @@
 <template>
   <primary-section
     :title="title"
-    subtitle="Robot swarms + biology + space = ???"
+    subtitle="Computer Vision + NLP + Comic Art = ???"
     texture="circuit-board"
   >
     <div slot="intro">
       <vue-markdown>
-I am interested in using bioinspiration to improve robotics. Biological systems, from cellular organization to ant colonies to human society, are able to produce complex behavior and structures at scales unachievable by a (relatively simple) individual. In addition, humans and animals are able to learn and adapt much quicker than state-of-the-art robots.
+I am drawn to 3D Computer Vision Research. But, I haven't had the opportunity to officially dabble in it. My current research focuses on segmentation techniques that leverage domain-knowledge and trained neural networks to determine areas of interest.
 
 I want to develop robots that draw from biology to learn and work collectively. Striving for minimal systems, can also help us understand the fundamental principles underlying behavior. A budding interest is connecting these approaches to distributed problems outside robotics, such as in satellite constellations.
       </vue-markdown>

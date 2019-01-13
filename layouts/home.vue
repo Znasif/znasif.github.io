@@ -20,7 +20,7 @@
               'builds in 3D.',
               'reshapes reality.',
               'reads and reads.',
-              'makes mistakes.']"
+              'makes mitsakes.']"
             ></vue-typer>
           </no-ssr>
         </div>

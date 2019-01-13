@@ -39,7 +39,7 @@
                     {date: '2019 --',
                      task: 'Maple: Robust Map Segmentation Using Mask-RCNN'}]"
             ></cv-entry>
-            <h2>Grants and Scholarships</h2>
+            <h2>Scholarships</h2>
             <cv-award date="2011" award="Board Scholarship in Secondary School Certificate Examination"></cv-award>
             <cv-award date="2011" award="Board Talentpool Scholarship in Primary School"></cv-award>
             <!-- <h2>Awards</h2>
@@ -120,13 +120,13 @@
                 title="Elab"
                 subtitle="Machine Learning and Big Data Engineer"
                 :tasks="[
-                    {date: '2018 -- 2019',
+                    {date: '2018 -- 2018',
                      task: 'Processing and Analyzing Imaging Data'},
-                    {date: '2018 -- 2019',
+                    {date: '2018 -- 2018',
                      task: 'Extract Text from Medical Reports'},
-                    {date: '2018 -- 2019',
+                    {date: '2018 -- 2018',
                      task: 'Train Neural Network for Tentative Diagnosis'},
-                    {date: '2018 -- 2019',
+                    {date: '2018 -- 2018',
                      task: 'Migrate Infrastructure to Google Cloud Platform'},
                     {date: '2019 --',
                      task: 'Create a functional REST API'}]"
@@ -164,22 +164,16 @@
                 'Multi-view Geometry', 'Machine Vision', 'Introduction to XR',
                 'Game Theory', 'Fundamentals of GIS']"
             ></cv-skill>
-            <cv-skill
-                category="Projects"
-                :skills="[
-                'Bangla Numeral Detection and Recognition in Scanned Mouza Maps with MaskRCNN and OCR (Python)',
-                'Reddit bot for Map Recognition in r/Map_Porn, r/MapPorn and r/maps (Python)',
-                'Plot Information Management System (Django)',
-                'Train Ticket Reservation System (Java and Oracle)',
-                'Multi Tab Web Browser (Java)',
-                '2D Racing Car (C)']"
-            ></cv-skill>
-            <cv-skill
-                category="Hardware Projects"
-                :skills="[
-                '2-Player Ludo Game (Variants: Player1 vs Robot and Player1 vs Player2) (ATmega32 and LED Matrix)',
-                'Grid Solving Robot (Arduino Uno and IR-Sensor)']"
-            ></cv-skill>
+            <h2>Projects</h2>
+            <cv-award date="2018" award="Bangla Numeral Detection and Recognition in Scanned Mouza Maps with MaskRCNN and OCR (Python)"></cv-award>
+            <cv-award date="2018" award="Reddit bot for Map Recognition in r/Map_Porn, r/MapPorn and r/maps (Python)"></cv-award>
+            <cv-award date="2017" award="Plot Information Management System (Django)"></cv-award>
+            <cv-award date="2016" award="Train Ticket Reservation System (Java and Oracle)"></cv-award>
+            <cv-award date="2015" award="Multi Tab Web Browser (Java)"></cv-award>
+            <cv-award date="2014" award="2D Racing Car (C)"></cv-award>
+            <h2>Hardware Projects</h2>
+            <cv-award date="2018" award="Grid Solving Robot (Arduino Uno and IR-Sensor)']"></cv-award>
+            <cv-award date="2017" award="2-Player Ludo Game (Variants: Player1 vs Robot and Player1 vs Player2) (ATmega32 and LED Matrix)"></cv-award>
             <h2>Activities and Interests</h2>
             <cv-skill
                 category="Sport"
