@@ -8,7 +8,7 @@
       <vue-markdown>
 I am drawn to 3D Computer Vision Research. But, I haven't had the opportunity to officially dabble in it. My current research focuses on segmentation techniques that leverage domain-knowledge and trained neural networks to determine areas of interest.
 
-I want to develop robots that draw from biology to learn and work collectively. Striving for minimal systems, can also help us understand the fundamental principles underlying behavior. A budding interest is connecting these approaches to distributed problems outside robotics, such as in satellite constellations.
+I want to develop modules that use low cost depth cameras to . Striving for minimal systems, can also help us understand the fundamental principles underlying behavior. A budding interest is connecting these approaches to distributed problems outside robotics, such as in satellite constellations.
       </vue-markdown>
     </div>
     <div>
