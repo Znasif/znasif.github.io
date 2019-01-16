@@ -41,7 +41,7 @@
             ></cv-entry>
             <h2>Scholarships</h2>
             <cv-award date="2011" award="Board Scholarship in Secondary School Certificate Examination"></cv-award>
-            <cv-award date="2011" award="Board Talentpool Scholarship in Primary School"></cv-award>
+            <cv-award date="2005" award="Board Talentpool Scholarship in Primary School"></cv-award>
             <!-- <h2>Awards</h2>
             <cv-award date="2018" award="Research Assistant, Bangladesh University of Engineering and Technology"></cv-award>
             <h2 v-if="isPaper">Papers</h2>
