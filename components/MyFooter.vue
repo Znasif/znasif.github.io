@@ -18,7 +18,7 @@ Bangladesh University of Engineering and Technology
       </div>
       <div class="column">
         <vue-markdown>
-*Borrowed by Nasif Zaman from [Julia Ebert](https://juliaebert.com/).*
+*Adapted from [Julia Ebert](https://juliaebert.com/).*
         </vue-markdown>
       </div>
     </div>

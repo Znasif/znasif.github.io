@@ -6,10 +6,10 @@ module.exports = {
     navItems: {
       "About Me": "",
       CV: "cv",
-      Research: "research",
+      //Research: "research",
       //Publications: "publications",
       //"Side Projects": "side-projects",
-      Miscellaneous: "miscellaneous"
+      //Miscellaneous: "miscellaneous"
     }
   },
   router: {

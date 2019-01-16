@@ -37,7 +37,7 @@ I want to develop modules that use low cost depth cameras to . Striving for mini
         </div>
       </project>
       <project
-        video-src="/video/research/lopes.mp4"
+        img-src="/video/research/2r953d.gif"
         title="Cooperative Exoskeleton Control for Human Balance Recovery"
         subtitle="Advisors: Prof. Etienne Burdet and Dr. Ildar Farkhatdinov, Imperial College London"
       >

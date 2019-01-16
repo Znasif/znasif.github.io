@@ -39,8 +39,8 @@ I also deeply care about science communication and outreach. I believe modern MO
         <p>In my free time, I surf
           <a href="http://reddit.com/r/MapPorn"> r/MapPorn</a>,
           <a href="http://reddit.com/r/mapmaking"> r/mapmaking</a>,
-          <a href="http://reddit.com/r/MapPorn"> r/Maps</a>,
-          <a href="http://reddit.com/r/MapPorn"> r/Map_Porn</a> and other such subreddits and read
+          <a href="http://reddit.com/r/Maps"> r/Maps</a>,
+          <a href="http://reddit.com/r/Map_Porn"> r/Map_Porn</a> and other such subreddits and read
           <a href="https://docs.google.com/spreadsheets/d/18Nnc6_Kncy7iILfn9m23OOTl0DAN6TQArSxB9SvUKcU/edit?usp=sharing">cool books and articles</a>
         </p>
       </div>
@@ -48,10 +48,10 @@ I also deeply care about science communication and outreach. I believe modern MO
         <h1 class="title is-2 has-text-centered">See More</h1>
         <div class="has-flex-items">
           <image-block-link title="CV"></image-block-link>
-          <image-block-link title="Research"></image-block-link>
-          <!--<image-block-link title="Publications"></image-block-link>
-          <image-block-link title="Side Projects"></image-block-link>-->
-          <image-block-link title="Miscellaneous"></image-block-link>
+          <!--<image-block-link title="Research"></image-block-link>
+          <image-block-link title="Publications"></image-block-link>
+          <image-block-link title="Side Projects"></image-block-link>
+          <image-block-link title="Miscellaneous"></image-block-link>-->
         </div>
       </div>
       <div class="block-content">
