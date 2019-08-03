@@ -23,6 +23,12 @@
         <div slot="content">
             <h2>Education</h2>
             <cv-entry
+                location="Reno, Nevada, USA"
+                dates="2019 - current"
+                title="University of Nevada, Reno"
+                subtitle="PhD in Computer Science"
+            ></cv-entry>
+            <cv-entry
                 location="Dhaka, Bangladesh"
                 dates="2018"
                 title="Bangladesh University of Engineering and Technology"
